@@ -16,6 +16,7 @@ My autoexec.cfg for cs2. made as descriptive and easy to edit.
 - Spray 6
 - Inspect t
 - No music(exept mvp when no one no enemy is alive)
+- Disallow removal of silencers 
 
 ## Set custom settings
 All important custom settings are in the top. The important ones are:
